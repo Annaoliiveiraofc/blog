@@ -1,0 +1,11 @@
+{
+    "pipeline" { 
+        "start:development": { 
+            "cache":fals
+        }
+    }
+    " workspaces": [
+        "apps/*"
+
+    ]
+}
